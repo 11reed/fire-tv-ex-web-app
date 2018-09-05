@@ -1,0 +1,21 @@
+.App-header > h2 {
+	background: #900C3F;
+	color: #FF5733;
+	height: 100%;
+	width: 5%;
+	margin-left: 15px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.App-top-Text, h1 {
+	color: #C70039;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+
+
